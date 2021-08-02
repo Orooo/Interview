@@ -1,0 +1,67 @@
+contentProvider
+
+service
+
+broadcast Receiver
+
+
+
+콜백?
+
+
+
+안드로이드 UI 개요 문서
+goo.gl/wjs2Zc
+
+
+안드로이드 레이아웃 문서
+goo.gl/fl0abF
+
+
+다양한 크기의 화면 지원 
+goo.gl/T4GjBg
+
+
+fragment
+
+
+뷰페이저?
+
+
+understanding android Threading - youtube.com
+
+
+
+안드로이드 백그라운드 잘 다루기 Thread, Looper, Handler.  : NHN NEXT
+
+
+d2.naver.cim/helloworld/429368
+
+gun0912.tistory.com/17
+
+
+
+history of internet
+
+
+okhttp - http 자료 참조
+
+
+css 로 웹크롤링 - phython 으로 분류
+
+
+colt mcAnils - 안드로이드 강의
+
+
+udacity - 안드로이드 강의
+
+
+
+http 강의 - 김영한
+
+
+
+레트로핏
+
+
+
